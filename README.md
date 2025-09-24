@@ -76,20 +76,20 @@ KotlinContactList/
 ## 📸 Demonstração do App
 
 ### 01 - ContactList
-Tela Principal – Lista inicial de contatos.  
-![Intent Explícita](screenshots/01-explicits%20intents.png)
+Visualização via Desktop.  
+![Project preview on desktop](screens/1%20ContactList.png)
 
 ### 02 - ContactList
-Adicionar Contato – Formulário para inserir novo contato.  
-![Intent Explícita Open](screenshots/02-explicits%20intents%20(open).png)
+Editando Contato – Formulário para inserir novo contato.  
+![Contact Edit+Add](screens/2%20ContactList.png)
 
 ### 03 - ContactList
-Menu de Contexto – Opções Editar e Remover.  
-![Intent Implícita Menu](screenshots/03-implicit%20intents%20(menu).png)
+Detalhes Contato – Opções Editar e Remover.  
+![Contact Details](screens/3%20ContactList.png)
 
 ### 04 - ContactList
-Visualizar Contato – Exibe detalhes em modo leitura.  
-![Abrir Navegador](screenshots/04-implicit%20intents%20(browser).png)
+Remover Contato – Exibe detalhes de remoção.  
+![Remove Contact](screens/4%20ContactList.png)
 
 
 ## ⚠️ Observações
